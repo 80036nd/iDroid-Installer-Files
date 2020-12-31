@@ -1,4 +1,4 @@
-# iDroid Installer Powerd By Project Sandcastle
+#iDroid Installer Powerd By Project Sandcastle
 
 Project Sandcastle - Android build
 Projectsandcastle.org
